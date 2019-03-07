@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Luyện Thi Đồng Nai</string>
+    <string name="nav_header_title">Xin chào!</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="discussion">Thảo luận học tập</string>
+    <string name="online_test">Kiểm tra online</string>
+    <string name="recreation">Giải trí</string>
+    <string name="introduction">Giới thiệu</string>
+    <string name="regulation">Quy định</string>
+    <string name="log_out">Đăng xuất</string>
+    <string name="log_in">Đăng nhập</string>
+    <string name="nav_header_subtitle">Tên</string>
+</resources>

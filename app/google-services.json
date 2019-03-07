@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "443010933221",
+    "firebase_url": "https://luyenthidongnai.firebaseio.com",
+    "project_id": "luyenthidongnai",
+    "storage_bucket": "luyenthidongnai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443010933221:android:df5f8c2f07b7fe94",
+        "android_client_info": {
+          "package_name": "com.example.dat.luyenthidongnai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443010933221-v74c0215fdval3np7uv68mj9cqbijakp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dat.luyenthidongnai",
+            "certificate_hash": "f7db2e106a2427606a147891ee6d1ca4fdb64074"
+          }
+        },
+        {
+          "client_id": "443010933221-nnsrgt7u9vk6oi89j4jprs04skglnn4h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn0tJtwz-0hYesT5jWUxXqPW2Unq11PdI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443010933221-nnsrgt7u9vk6oi89j4jprs04skglnn4h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
